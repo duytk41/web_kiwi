@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+
+}
+.qmk{
+    text-align: center;
+    border-radius: 10px;
+    padding: 230px;
+    
+}
+input{
+justify-content: center;
+padding-top: 1.5%;
+padding-bottom: 1.5%;
+width: 50%;
+}
+.bt{
+    margin-bottom: 35px;
+}
+button{
+    padding: 10px 50px 10px 50px;
+    font-size: 20px;
+}
+.qldn{
+    margin-top: 30px;
+}
+h1{
+    padding-bottom: 3%;
+}
